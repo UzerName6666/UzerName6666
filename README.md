@@ -1,4 +1,27 @@
-## Hi there 👋
+# Микрюков Лев Сергеевич
+
+## Обо мне
+* Основной язык программирования - C++
+
+## Образование
+
+Курс бакалавра, Пермский государственный университет (2025 - текущий день) 
+
+## Набор технологий 
+
+### BI & Analytics
+
+* SQL
+
+### Языки программирования
+
+* C++
+* Python
+
+### Databases & Data Engineering
+
+* Postgresql
+* Git
 
 <!--
 **UzerName6666/UzerName6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
